@@ -2,7 +2,7 @@
  
  - Sergio
  - Jesus
- - Joan
+ - Joan M.
  - Domingo
  - Beatriz
 
